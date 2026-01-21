@@ -1,3 +1,3 @@
 - Esteban Gonzalez
 - 202220825
-- Soy estudiante de 8vo semestre de Ingenieria Industrial
+- Soy estudiante de octavo semestre de Ingeniería Industrial y tomo este curso como parte de una opción en Machine Learning. Espero que GPI me ayude a entender cómo usar la programación, los repositorios y los datos abiertos para desarrollar proyectos de investigación de forma más organizada, reproducible y aplicable a distintos campos de la ingeniería.
