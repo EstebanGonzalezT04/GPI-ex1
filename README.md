@@ -1,0 +1,3 @@
+- Esteban Gonzalez
+- 202220825
+- Soy estudiante de 8vo semestre de Ingenieria Industrial
